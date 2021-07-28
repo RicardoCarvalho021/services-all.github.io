@@ -1,0 +1,86 @@
+Info: CapabilityPattern:Desenvolvimento: 81 mini seconds publishing element
+Info: CapabilityPattern:Desenvolvimento: 4 mini seconds publishing process specific layout data
+Info: Task:refinamento_de_requisitos: 32 mini seconds publishing element
+Info: TaskDescriptor:refinamento_de_requisitos: 11 mini seconds publishing element
+Info: Role:analista_de_requisitos: 53 mini seconds publishing element
+Info: RoleDescriptor:analista_de_requisitos: 10 mini seconds publishing element
+Info: Artifact:documento_de_requisitos: 33 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_requisitos: 12 mini seconds publishing element
+Info: Artifact:documento_de_viso_geral: 28 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_viso_geral: 9 mini seconds publishing element
+Info: Artifact:documento_de_requisitos_-_refinado: 22 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_requisitos_-_refinado: 11 mini seconds publishing element
+Info: Task:elaborar_estrutura_de_equema_de_servicos_e_valor: 26 mini seconds publishing element
+Info: TaskDescriptor:elaborar_estrutura_de_equema_de_servicos_e_valor: 12 mini seconds publishing element
+Info: Role:arquiteto_de_sistema: 49 mini seconds publishing element
+Info: RoleDescriptor:arquiteto_de_sistema: 27 mini seconds publishing element
+Info: Outcome:necessidades_do_servico: 40 mini seconds publishing element
+Info: WorkProductDescriptor:necessidades_do_servico: 7 mini seconds publishing element
+Info: Artifact:tabela_de_servicos_e_valor: 19 mini seconds publishing element
+Info: WorkProductDescriptor:tabela_de_servicos_e_valor: 6 mini seconds publishing element
+Info: Artifact:esquema_de_estrutura_da_plataforma_e_comunicao: 20 mini seconds publishing element
+Info: WorkProductDescriptor:esquema_de_estrutura_da_plataforma_e_comunicao: 8 mini seconds publishing element
+Info: Task:elaborar_a_estrutura_da_plataformar: 20 mini seconds publishing element
+Info: TaskDescriptor:elaborar_a_estrutura_da_plataformar: 7 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 50 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 11 mini seconds publishing process specific layout data
+Info: Task:implementar_a_estrutura_da_plataforma: 24 mini seconds publishing element
+Info: TaskDescriptor:implementar_a_estrutura_da_plataforma: 9 mini seconds publishing element
+Info: Role:programador: 39 mini seconds publishing element
+Info: RoleDescriptor:programador: 9 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_requisitos_-_refinado: 8 mini seconds publishing element
+Info: WorkProductDescriptor:esquema_de_estrutura_da_plataforma_e_comunicao: 8 mini seconds publishing element
+Info: Artifact:sistema_da_plataforma_de_servios_feita: 24 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_da_plataforma_de_servios_feita: 9 mini seconds publishing element
+Info: Task:testar_a_implementacao: 34 mini seconds publishing element
+Info: TaskDescriptor:testar_a_implementacao: 10 mini seconds publishing element
+Info: Role:testador: 39 mini seconds publishing element
+Info: RoleDescriptor:testador: 7 mini seconds publishing element
+Info: Role:consultor: 44 mini seconds publishing element
+Info: RoleDescriptor:consultor: 16 mini seconds publishing element
+Info: Role:gerente: 37 mini seconds publishing element
+Info: RoleDescriptor:gerente: 11 mini seconds publishing element
+Info: Artifact:sistema_da_plateforma_de_servios_testada: 25 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_da_plateforma_de_servios_testada: 11 mini seconds publishing element
+Info: CapabilityPattern:Concepcão: 70 mini seconds publishing element
+Info: CapabilityPattern:Concepcão: 6 mini seconds publishing process specific layout data
+Info: Task:estabelecer_as_necessidades: 29 mini seconds publishing element
+Info: TaskDescriptor:estabelecer_as_necessidades: 17 mini seconds publishing element
+Info: Role:analista: 44 mini seconds publishing element
+Info: RoleDescriptor:analista: 12 mini seconds publishing element
+Info: Role:cliente: 37 mini seconds publishing element
+Info: RoleDescriptor:cliente: 16 mini seconds publishing element
+Info: RoleDescriptor:gerente: 7 mini seconds publishing element
+Info: Artifact:documento_de_necessidades_de_sistema: 26 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_necessidades_de_sistema: 9 mini seconds publishing element
+Info: Outcome:necessidades_de_sistema: 19 mini seconds publishing element
+Info: WorkProductDescriptor:necessidades_de_sistema: 7 mini seconds publishing element
+Info: Task:documentar_os_requisitos: 24 mini seconds publishing element
+Info: TaskDescriptor:documentar_os_requisitos: 10 mini seconds publishing element
+Info: RoleDescriptor:consultor: 7 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_requisitos: 8 mini seconds publishing element
+Info: Task:definir_tabela_de_servicos_e_precos_: 28 mini seconds publishing element
+Info: TaskDescriptor:definir_tabela_de_servicos_e_precos_: 7 mini seconds publishing element
+Info: WorkProductDescriptor:necessidades_do_servico: 7 mini seconds publishing element
+Info: WorkProductDescriptor:tabela_de_servicos_e_valor: 7 mini seconds publishing element
+Info: Task:viso_geral_do_servico: 22 mini seconds publishing element
+Info: TaskDescriptor:viso_geral_do_servico: 12 mini seconds publishing element
+Info: Role:analista_revisor: 31 mini seconds publishing element
+Info: RoleDescriptor:analista_revisor: 6 mini seconds publishing element
+Info: WorkProductDescriptor:documento_de_viso_geral: 15 mini seconds publishing element
+Info: DeliveryProcess:Processo: 140 mini seconds publishing element
+Info: DeliveryProcess:Processo: 278 mini seconds publishing process specific layout data
+Info: Iteration:Kanban: 133 mini seconds publishing element
+Info: CapabilityPattern:Concepcão: 174 mini seconds publishing element
+Info: CapabilityPattern:Desenvolvimento: 148 mini seconds publishing element
+Info: CapabilityPattern:Implementação: 115 mini seconds publishing element
+Info: Discipline:desenvolvimento_da_arquitetura: 11 mini seconds publishing element
+Info: Discipline:implementao_da_estrutura_da_solucao: 8 mini seconds publishing element
+Info: Discipline:testar_produto: 5 mini seconds publishing element
+Info: Discipline:cencepcao_e_iniciacao_da_solucao: 8 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 12 mini seconds publishing element
+Info: CustomCategory:Tasks: 10 mini seconds publishing element
+Info: CustomCategory:Roles: 12 mini seconds publishing element
+Info: CustomCategory:Work Products: 9 mini seconds publishing element
+Info: CustomCategory:Processes: 11 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds
